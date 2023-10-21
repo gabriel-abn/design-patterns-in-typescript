@@ -1,0 +1,92 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="571px" height="204px" viewBox="-0.5 -0.5 571 204" content="&lt;mxfile&gt;&lt;diagram id=&quot;PTU-fPiZlwXySzFUqXZn&quot; name=&quot;Page-1&quot;&gt;7Vjfb5swEP5rImUPnfgROvrYkG57aKVqqTTt0YULWDU2Mk6T9K/f2RgIgXS0ydMUKYrwd3cY3/fdXcLEj/LtD0mK7EEkwCaek2wn/mLieUF4g98a2FXAzJ9VQCppUkFuCyzpG1jQseiaJlB2HJUQTNGiC8aCc4hVByNSik3XbSVYd9eCpNADljFhffQ3TVRWoWHgtPhPoGlW7+w61pKT2tkCZUYSsdmD/LuJH0khVHWVbyNgOnd1Xqq470eszYNJ4GpMgFcFvBK2tmeLiLSPpnb1ecsNzRnhuJqvBFdLa3FxTRhNOV7HuCFIBF5BKoqpurUGJQpE44yy5J7sxFo/VqlI/FKv5pmQ9A1vS5i9J5qlsqx71x2PpY5E2EFUQok+j/VZ3QPogWw7jvekVBaIBWOkKOlzc4ycyJTyuVBK5NbJZgaPA9uj2XUbzlDrIHJQcocudUBNs9V5aJebVjSNprN9wcxsPRAr1LS5dcslXlg6h6n1e9ReaQWaWvRvdcnsCphgfj3f1efV1h0g+8bI1/kz8tk1Y96EtZdKUp4e2IFjEuEdByUJL3NallTwrtuB4jDnyihBiheIqm0XXFQSpIwdQLUKGazUUQ2WBYlxr3vjs5i1yC+beQ0JjF0xU5IZTRLgWj9CEUUqseiTFIJyZZgJ5vhBAiPnazAJ8MEjXLvtGj/aXapIcDwLoUY3gErcgFbjOJF5wyKzotIZHiOq8AyamvU01WOOGQVY5uru6H6KthwJYNDy9KRpXFy5PS79Ppf+AG+MPAN7FCVVRn4LWfke8PkvyrqapDwDSc9EpeuObBDh6VQGA1TOzSBdmpKcfrkU6LlYDcexWlfyKbReDw30+RqnL1zm+rnm+szpzvXA6xN8M0RwHXcKw98uc/0/aRvXH57rQ6I6x1wPL3P9tLn+PpWDc32Qy9OpvDky10tQ5n/4dK9TVEVqB/3+nGiKu4n9gx1kethGRkWajE57LWZU7J1pPNN+/xkV/bTXlabHWtTAnS496/NCH/ipMyh078NKx2X7XsTY9l4u+Xd/AQ==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-4-59-202-84-0">
+            <rect x="4" y="59" width="202" height="84"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-151-202-26-0">
+            <rect x="4" y="151" width="202" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-284-31-282-84-0">
+            <rect x="284" y="31" width="282" height="84"/>
+        </clipPath>
+        <clipPath id="mx-clip-284-123-282-82-0">
+            <rect x="284" y="123" width="282" height="82"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 0 54 L 0 28 L 210 28 L 210 54" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 54 L 0 172 L 210 172 L 210 54" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 54 L 210 54" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="104.5" y="45.5">
+                Car
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-59-202-84-0)" font-size="12px">
+            <text x="5.5" y="71.5">
+                - model: type
+            </text>
+            <text x="5.5" y="85.5">
+                - year: number
+            </text>
+            <text x="5.5" y="99.5">
+                - color: string
+            </text>
+            <text x="5.5" y="113.5">
+                - engine: string
+            </text>
+            <text x="5.5" y="127.5">
+                - transmission: string
+            </text>
+        </g>
+        <path d="M 0 142 L 210 142" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-151-202-26-0)" font-size="12px">
+            <text x="5.5" y="163.5">
+                + toString(): string
+            </text>
+        </g>
+        <path d="M 280 26 L 280 0 L 570 0 L 570 26" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 280 26 L 280 200 L 570 200 L 570 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 280 26 L 570 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="424.5" y="17.5">
+                CarBuilder
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-284-31-282-84-0)" font-size="12px">
+            <text x="285.5" y="43.5">
+                - model: type
+            </text>
+            <text x="285.5" y="57.5">
+                - year: number
+            </text>
+            <text x="285.5" y="71.5">
+                - color: string
+            </text>
+            <text x="285.5" y="85.5">
+                - engine: string
+            </text>
+            <text x="285.5" y="99.5">
+                - transmission: string
+            </text>
+        </g>
+        <path d="M 280 114 L 570 114" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-284-123-282-82-0)" font-size="12px">
+            <text x="285.5" y="135.5">
+                + setModel(model: string): CarBuilder
+            </text>
+            <text x="285.5" y="149.5">
+                + setYear(year: number): CarBuilder
+            </text>
+            <text x="285.5" y="163.5">
+                + setColor(color: string): CarBuilder
+            </text>
+            <text x="285.5" y="177.5">
+                + setEngine(engine: string): CarBuilder
+            </text>
+            <text x="285.5" y="191.5">
+                + setTransmission(transmission: string): CarBuilder
+            </text>
+        </g>
+    </g>
+</svg>
