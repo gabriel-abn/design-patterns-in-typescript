@@ -1,0 +1,121 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="602px" height="382px" viewBox="-0.5 -0.5 602 382" content="&lt;mxfile&gt;&lt;diagram id=&quot;SCZ5sLGbUhuNqizxLvsT&quot; name=&quot;Page-1&quot;&gt;7Vrbbts4EP0aA+1DFqJucR9jJWkXSIFgs9juPrISLRGlRIOiY7tfv0OJ1JW+xFHTAjVg2OJwKHHmzMyhSM+8KN9+FHiVfeYJYTPXSbYz73bmutfIgW8l2NWCwPVrQSpoUotQK3ii34kW6nHpmiak7ClKzpmkq74w5kVBYtmTYSH4pq+25Kz/1BVOyUjwFGM2ln6hicxq6TxwWvknQtPMPBk5uifHRlkLygwnfNMReXczLxKcy/oq30aEKd8Zv9Tj7vf0NhMTpJCnDDDzeMZsrY3TE5M7Y63g6yIhaoAz8xabjErytMKx6t0AvCDLZM6gheCS4a+ELXD8La2GRZxxAV0FL0jTy0VCxKBnyQupgUbqPnpaREiy3WsbajwGkUZ4TqTYgYoZ8EEbp6MM+bq9aTELDTJZBy9vroVYx0na3Lt1JVxob+7x7Mix/5CMxuDUoX/LDc0Zbr2ge5QXMKNpAdcxmEzAWwvlEAqBeKM7JFf+jzPKkge842tlQSnB/aa1yLig3+G22CAE3cK42g17Gk9qpMZZkBJ0Ho230UD0GW97ig+4lFoQc8bwqqRfGzNyLFJaLLiUPNdKE+DrOn18Xccd4YtCC77InQBfb4TvlUrwqtR5NxXCghbpDFzsekiZrPp3BIu6m4KRw0gAX8gKIcG/kWGCUMYGIhMdjCzl3tgoIVVhHg+Vzq3fSv7SDlEiDmOXrCpEGU0SUihcucQS1yCq6a84TLlyWLCAD7gwcv4IZgFMPII2atvwUepCRrwAWzCt8CQQIRuiouQ08F07+Abs8DSsff/1UPvHaySjFSI1coYT0Fmw5QAAIy1OfysYb6/QCEtvjKVnwa2quY+8pJJydX9R6w7wPAZZPyZpkRFBJ4LyelyWrVDOX49kYEFyUSEJNfGugCJF3r2v8/OZw6A2ebVexjd/FkveV7pk8dnQz0/MYvf12IcW7ENWG1L/UkWyS7WyccNUd5hfEweaxO9xLLl+/olcfjZJ+449cH4Kbw/Xaeeu9ybg/8AdrO8C/7RoCsPXR9P1nkoSC4Il0VFiysS+ld/vUinOWtyHByuHZS1vxdqdAGvkj5AjCbwQ6qZJx/YlCGwQu3+VH8FBuvlft+/WJGHd2nVbj8CsMEW13LdmXP91LMFlVjVav6q5HU4pMIWvRTx4q4aSkxLZCe+x8wVhWNLn/u1trq2G3giBdx0FHVHtnR95tQpuEnq4oPfDLkwj/fCwPlzUM2hBbkw5Dffxy/GTCvMywuItCcC7EICVAPwBATSF/VhRCKYoCujCAD+YAZBjh1/D7b0lBQQvpIAXVO1J2eJMCnB/EAUcr9lDdOop6FEtQC/lkutfjUvG+4H3OKdsd+GSX4JLwp/KJePNxAuXTMwlhzci3pRLxjsRGtKIUWLZFr4cEJy5PgyDXk435zodlJvdx94BgTPBAQEabxFcVRb1NpC6Gb2PB36XxD4N8sP7ApZzASvE7gTnAmhuKduXg4EXHAwcATM4MV8nOBlAH/ZQcK80v4vb1Vo3c+ve96Pzgj5/Ww4Ho9ngTPDC8ZOVgmB8uGCNnjMOF6DZ/kejfhto/+ji3f0P&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-14-93-152-44-0">
+            <rect x="14" y="93" width="152" height="44"/>
+        </clipPath>
+        <clipPath id="mx-clip-14-145-152-42-0">
+            <rect x="14" y="145" width="152" height="42"/>
+        </clipPath>
+        <clipPath id="mx-clip-334-59-152-26-0">
+            <rect x="334" y="59" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-234-161-152-26-0">
+            <rect x="234" y="161" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-434-161-152-26-0">
+            <rect x="434" y="161" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-279-271-262-24-0">
+            <rect x="279" y="271" width="262" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-279-303-262-42-0">
+            <rect x="279" y="303" width="262" height="42"/>
+        </clipPath>
+    </defs>
+    <g>
+        <rect x="0" y="0" width="600" height="380" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <path d="M 10 88 L 10 62 L 170 62 L 170 88" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 10 88 L 10 182 L 170 182 L 170 88" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 10 88 L 170 88" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="89.5" y="79.5">
+                Vehicle
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-14-93-152-44-0)" font-size="12px">
+            <text x="15.5" y="105.5">
+                - model: string
+            </text>
+            <text x="15.5" y="119.5">
+                - year: int
+            </text>
+        </g>
+        <path d="M 10 136 L 170 136" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-14-145-152-42-0)" font-size="12px">
+            <text x="15.5" y="157.5">
+                + startEngine(): void
+            </text>
+            <text x="15.5" y="171.5">
+                + showInfo(): void
+            </text>
+        </g>
+        <path d="M 330 54 L 330 14 L 490 14 L 490 54" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 330 54 L 330 80 L 490 80 L 490 54" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 330 54 L 490 54" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="11px">
+            <text x="409.5" y="31.5">
+                &lt;&lt;interface&gt;&gt;
+            </text>
+            <text x="409.5" y="44.5">
+                VehicleFactory
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-334-59-152-26-0)" font-size="11px">
+            <text x="335.5" y="70.5">
+                + createVehicle(): Vehicle
+            </text>
+        </g>
+        <path d="M 310 126 L 310 106 L 410 106 L 410 86.37" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 410 81.12 L 413.5 88.12 L 410 86.37 L 406.5 88.12 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 230 156 L 230 126 L 390 126 L 390 156" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 230 156 L 230 182 L 390 182 L 390 156" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 230 156 L 390 156" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="11px">
+            <text x="309.5" y="145">
+                SportsCarFactory
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-234-161-152-26-0)" font-size="11px">
+            <text x="235.5" y="172.5">
+                + createVehicle(): Vehicle
+            </text>
+        </g>
+        <path d="M 510 126 L 510 106 L 410 106 L 410 86.37" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 410 81.12 L 413.5 88.12 L 410 86.37 L 406.5 88.12 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 430 156 L 430 126 L 590 126 L 590 156" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 430 156 L 430 182 L 590 182 L 590 156" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 430 156 L 590 156" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="11px">
+            <text x="509.5" y="145">
+                FamilyCarFactory
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-434-161-152-26-0)" font-size="11px">
+            <text x="435.5" y="172.5">
+                + createVehicle(): Vehicle
+            </text>
+        </g>
+        <path d="M 275 266 L 275 240 L 545 240 L 545 266" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 275 266 L 275 340 L 545 340 L 545 266" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 275 266 L 545 266" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="409.5" y="257.5">
+                VehicleClient
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-279-271-262-24-0)" font-size="12px">
+            <text x="280.5" y="283.5">
+                - vehicleFactory: VehicleFactory
+            </text>
+        </g>
+        <path d="M 275 294 L 545 294" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-279-303-262-42-0)" font-size="12px">
+            <text x="280.5" y="315.5">
+                + VehicleClient(carFactory: VehicleClient)
+            </text>
+            <text x="280.5" y="329.5">
+                + createVehicle(model: string, year: int): Vehicle
+            </text>
+        </g>
+    </g>
+</svg>
